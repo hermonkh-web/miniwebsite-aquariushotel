@@ -30,8 +30,8 @@ const pageData = {
   address: "Jl. Imam Bonjol No.5, Palangka Raya, Kalteng.",
   title: "Pengalaman Menginap Terbaik di Jantung Kota",
   description: "Nikmati kenyamanan premium, layanan bintang lima, dan fasilitas modern di Aquarius Hotel Palangka Raya. Destinasi sempurna untuk perjalanan bisnis maupun liburan Anda di Kalimantan Tengah.",
-  profileImg: "/logo-aquarius.jpg", 
-  heroImg: "/background-aquarius.jpeg",
+  profileImg: "logo-aquarius.jpg", 
+  heroImg: "background-aquarius.jpeg",
   links: {
     instagram: "https://www.instagram.com/",
     maps: "https://maps.app.goo.gl/", 
